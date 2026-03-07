@@ -1,8 +1,8 @@
 # Hi, I'm Aishwarya 👋
 
-🎯 Aspiring Data Scientist / Data Engineer
-📊 Data Enthusiast passionate about data, Machine Learning, and Artificial Intelligence
-💼 Working on Data Warehousing Projects
+🎯 Aspiring Data Scientist / Data Engineer  
+📊 Data Enthusiast passionate about data, Machine Learning, and Artificial Intelligence  
+💼 Working on Data Warehousing Projects  
 🤝 Open for Collaboration
 
 ## 🧠 Skills
