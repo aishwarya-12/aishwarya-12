@@ -8,14 +8,19 @@
 ## 🧠 Skills
 
 * 🐍 Python
+* 🛢️ SQL / Databases
 * 🐼 Pandas
 * 🔢 NumPy
 * ⚡ PySpark
-* 📊 Tableau
-* 📈 Matplotlib
+* 📈 Seaborn
 * 🤖 Scikit-learn
+* 🧠 MLlib (PySpark Machine Learning)
+
+## 🛠 Tools & Technologies
+
 * 📓 Jupyter Notebook
-* 🔧 Git
+* 🖥️ VS Code
+* 📊 Tableau
 
 ## 🚀 Currently Learning
 
@@ -25,4 +30,3 @@
 
 * 🔗 LinkedIn: www.linkedin.com/in/aishwarya-mahajan-7a7b90109
 * ✉️ Email: ashmahajan.10@gmail.com
-
