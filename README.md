@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Aishwarya 👋
 
-<!--
-**aishwarya-12/aishwarya-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Scientist / Data Engineer
+📊 Data Enthusiast passionate about data, Machine Learning, and Artificial Intelligence
+🌱 Currently learning NLP
+🤝 Open for Collaboration
 
-Here are some ideas to get you started:
+## 🧠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* SQL
+* Pandas & NumPy
+* PySpark
+* Tableau
+* Data Cleaning & Data Analysis
+* Machine Learning
+* Data Visualization
+
+## 🛠 Tools & Technologies
+
+Python | Pandas | NumPy | PySpark | Tableau | Matplotlib | Scikit-learn | Jupyter Notebook | Git
+
+## 🚀 Currently Learning
+
+* Natural Language Processing (NLP)
+
+## 📫 Connect With Me
+
+LinkedIn: www.linkedin.com/in/aishwarya-mahajan-7a7b90109
+Email: ashmahajan.10@gmail.com
