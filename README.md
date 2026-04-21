@@ -22,10 +22,6 @@
 * 🖥️ VS Code
 * 📊 Tableau
 
-## 🚀 Currently Learning
-
-* 📝 Natural Language Processing (NLP)
-
 ## 📫 Connect With Me
 
 * 🔗 LinkedIn: www.linkedin.com/in/aishwarya-mahajan-7a7b90109
