@@ -7,7 +7,7 @@
 ## 🧠 Skills
 
 * 🐍 Python
-* 🛢️ SQL / Databases
+* 🛢️ SQL (MySQL)
 * 🐼 Pandas
 * 🔢 NumPy
 * ⚡ PySpark
